@@ -1,5 +1,7 @@
-# Test case - Abstract: Using Python and Playwright verify, if a new page was opened in
-# a new tab, after a click on the anchor with href="https://www.fiofondy.cz/"
+# Test case - Abstract: Using Python and Playwright verify on the website
+# https://www.fio.cz, if a new page was opened in a new tab, after a click on the anchor
+# with href="https://www.fiofondy.cz/"
+
 
 from playwright.sync_api import sync_playwright
 
